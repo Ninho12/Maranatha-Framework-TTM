@@ -1,0 +1,25 @@
+{
+  "name": "maranatha-framework-ttm",
+  "version": "0.0.1",
+  "description": "É um projeto open source para criação de layouts e componentes html.",
+  "main": "yes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "framework",
+    "css",
+    "framework",
+    "javascript",
+    "bootstrap",
+    "react",
+    "vue",
+    "angular"
+  ],
+  "author": "João Paulo Sena Padilha",
+  "license": "MIT"
+}
