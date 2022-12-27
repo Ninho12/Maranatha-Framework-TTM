@@ -2,29 +2,37 @@
 
 Maranatha Framework TTM é um framework css e javascript Católico inspirado no Bootstrap para criação de layouts e componentes html.
 
-## As funcionalidade Css
+## Organização do Framework
+
+O framework Maranatha é dividido em 2 partes:
+
+1. Css;
+2. Javascript;
+
+No Css é dividido em principal e extra.
+
+## As funcionalidade do Css
 
 As funcionalidades do css são essas:
 
-1. Cores de acordo com o tempo liturgico e em português;
+Principal:
 
-2. Muitas classes para formatação de textos;
+1. Cores;
+2. Formatações;
+3. Html sematico;
+4. Formulario;
+5. Tamanhos;
+6. Listas;
+7. Tabelas;
 
-3. Listas com muito estilos;
+Extra:
 
-4. Tabelas com muito estilo;
+8. Efeito; (borda, radius, inline e etc)
+9. Icones;
+10. Movimentos;
+11. Filtros;
+12. Fontes;
 
-5. Componentes de Formulario com muito estilo;
-
-6. Construção de menu de maneira simples;
-
-7. Construção de sidebar de maneira simples;
-
-8. Flexbox de maneira simples;
-
-9. Grid Layout de maneira simples;
-
-10. MediaQuery de maneira simples;
 
 
 ## Funcionalidades do javascript
@@ -32,12 +40,17 @@ As funcionalidades do css são essas:
 As funcionalidades do javascript são essas:
 
 1. Validação de formularios;
-
-2. Funções para crição de jogos simples;
-
-3. Objeto javascript para trabalhar com banco de dados local;
+2. Calculos importantes;
+3. Criação de jogos simples;
+4. Manipulação com banco de dados: sqlite e storage;
 
 
 ## Esta em construção
 
-O Framework esta em construção e por isso preciso da ajuda da comunidade para a criação e manutenção desse meu projeto.
+O Framework esta em construção e por isso preciso da ajuda da comunidade para a criação e manutenção desse meu projeto Open Source.
+
+## Deus esta conosco
+
+Que Deus abençoe a sua vida e a vida da sua familia e muito importante também que Deus abençoe o nosso trabalho.
+
+SALVE MARIA SANTISSIMA!
