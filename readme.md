@@ -2,6 +2,18 @@
 
 Maranatha Framework TTM é um framework css e javascript Católico inspirado no Bootstrap para criação de layouts e componentes html.
 
+# Link Importantes
+
+Aqui esta links importantes para o nosso projeto.
+
+1.[Documentação](https://github.com/Ninho12/Maranatha-Framework-TTM/wiki) (GitHub Wiki)
+
+2.[Comunidade](https://discord.gg/PkkxbE4U) (Discord)
+
+3.[Doação](https://pag.ae/7YZEFwnut) (PagSeguro)
+
+Você pode doar para o projeto no valor de 10 reais para ajudar o projeto a se desenvolver e ganhar forma.
+
 ## Organização do Framework
 
 O framework Maranatha é dividido em 2 partes:
