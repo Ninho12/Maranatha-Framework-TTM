@@ -6,6 +6,20 @@ Com sass podemos usar variaveis, dividir em arquivos menores e usar o @use e o a
 
 Também podemos criar funções para reaproveitar codigos.
 
+## Intalação do sass
+
+Eu instalei o sass atravez do apt-get do ubuntu que o meu sistema operacional.
+
+1. Eu instalei o Ruby
+2. Eu instalei o Sass
+3. Pronto eu já estava pronto para programar.
+
+Os comandos foram esses se você também usa o Ubuntu:
+
+    sudo apt-get install Ruby
+
+Para saber qual o comando é para instalar o sass é só você digitar no terminal que o proprio terminal vai lhe disser qual é o comando.
+
 
 ## Principais comandos
 
@@ -37,9 +51,14 @@ Tudo na mesma linha.
 Na importação de arquivos sass utilizamos o comando:
 @use mais o nome do arquivo, exemplo:
 
-    @use "background";
+    @import "background", "fontes";
 
-Na mesma linha e no final da linha o ponto-e-virgula;
+Na mesma linha e no final da linha o ponto-e-virgula, podemos como no exemplo acima importar dois arquivos.
+Mas alguns casos vamos importar só uma vez:
+
+    @import "cores";
+
+Pronto isso é tudo sobre importação.
 
 
 

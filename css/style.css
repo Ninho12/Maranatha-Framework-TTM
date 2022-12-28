@@ -1,3 +1,16 @@
+/*
+    Arquivo principal da pasta 1-cores
+    com esse arquivo eu importo todos os 
+    arquivos dessa pasta para carregar
+    no style principal do scss.
+
+*/
+.verde {
+  background-color: green; }
+
+.fonte {
+  font-size: 30px; }
+
 * {
   padding: 0;
   margin: 20px; }
