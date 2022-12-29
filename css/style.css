@@ -129,7 +129,31 @@
 
 */
 .preto-linear {
-  background-image: linear-gradient(to bottom, black, #555); }
+  background-image: linear-gradient(to top, black, #555); }
+
+.verde-linear {
+  background-image: linear-gradient(to top, green, #afa); }
+
+.vermelho-linear {
+  background-image: linear-gradient(to top, red, #faa); }
+
+.azul-linear {
+  background-image: linear-gradient(to top, blue, lightblue); }
+
+.amarelo-linear {
+  background-image: linear-gradient(to top, yellow, lightyellow); }
+
+.rosa-linear {
+  background-image: linear-gradient(to top, pink, #fcc); }
+
+.roxo-linear {
+  background-image: linear-gradient(to top, purple, #faf); }
+
+.laranja-linear {
+  background-image: linear-gradient(to top, orange, #fa7); }
+
+.branco-linear {
+  background-image: linear-gradient(to top, gray, white); }
 
 .fonte {
   font-size: 30px; }
