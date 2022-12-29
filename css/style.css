@@ -1,12 +1,33 @@
 /*
-    Arquivo principal da pasta 1-cores
-    com esse arquivo eu importo todos os 
-    arquivos dessa pasta para carregar
-    no style principal do scss.
+
+    Esse arquivo utilizarei para criar
+    background de cores, cores liturgica
+    e cores em portugues.
 
 */
-.verde {
+.comum {
   background-color: green; }
+
+.quaresma, .advento {
+  background-color: purple; }
+
+.martir {
+  background-color: red; }
+
+.mariano {
+  background-color: aqua; }
+
+.solenidade-1 {
+  background-color: white; }
+
+.solenidade-2 {
+  background-color: gold; }
+
+.luto {
+  background-color: black; }
+
+.alegria {
+  background-color: pink; }
 
 .fonte {
   font-size: 30px; }

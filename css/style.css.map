@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAAA;;;;;;EAME;ACJF,MAAM;EACF,gBAAgB,EAAE,KAAK;;ACA3B,MAAM;EACF,SAAS,EAAE,IAAI;;ACEnB,CAAC;EACG,OAAO,EAAE,CAAC;EACV,MAAM,EAJA,IAAI",
-"sources": ["../scss/1-cores/cores.scss","../scss/1-cores/background.scss","../scss/1-cores/fontes.scss","../scss/style.scss"],
+"mappings": "AAAA;;;;;;EAME;AAIF,MAAM;EACF,gBAAgB,EAAE,KAAK;;AAG3B,mBAAmB;EACf,gBAAgB,EAAE,MAAM;;AAG5B,OAAO;EACH,gBAAgB,EAAE,GAAG;;AAGzB,QAAQ;EACJ,gBAAgB,EAAE,IAAI;;AAG1B,aAAa;EACT,gBAAgB,EAAE,KAAK;;AAG3B,aAAa;EACT,gBAAgB,EAAE,IAAI;;AAG1B,KAAK;EACD,gBAAgB,EAAE,KAAK;;AAG3B,QAAQ;EACJ,gBAAgB,EAAE,IAAI;;ACpC1B,MAAM;EACF,SAAS,EAAE,IAAI;;ACEnB,CAAC;EACG,OAAO,EAAE,CAAC;EACV,MAAM,EAJA,IAAI",
+"sources": ["../scss/1-cores/1-background.scss","../scss/1-cores/3-fontes.scss","../scss/style.scss"],
 "names": [],
 "file": "style.css"
 }
