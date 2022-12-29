@@ -1,0 +1,20 @@
+
+//    Arquivo principal da pasta 1-cores
+//    com esse arquivo eu importo todos os 
+//    arquivos dessa pasta para carregar
+//    no style principal do scss.
+
+
+// Importanto varios arquivos para ser
+// carregado pelo arquivo style.scss
+// que o arquivo principal do projeto.
+
+@import "1-background";
+
+@import "2-gradiente";
+
+@import "3-fontes";
+
+@import "4-transparente";
+
+@import "5-texturas";
