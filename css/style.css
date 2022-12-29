@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*
 
     Esse arquivo utilizarei para criar
@@ -29,6 +30,94 @@
 .alegria {
   background-color: pink; }
 
+.preto {
+  background-color: black; }
+
+.grafite-claro {
+  background-color: #999; }
+
+.grafite-escuro {
+  background-color: #444; }
+
+.verde {
+  background-color: green; }
+
+.verde-claro {
+  background-color: greenyellow; }
+
+.verde-escuro {
+  background-color: darkgreen; }
+
+.vermelho {
+  background-color: red; }
+
+.vermelho-claro {
+  background-color: lightcoral; }
+
+.vermelho-escuro {
+  background-color: darkred; }
+
+.azul {
+  background-color: blue; }
+
+.azul-claro {
+  background-color: lightblue; }
+
+.azul-escuro {
+  background-color: darkblue; }
+
+.amarelo {
+  background-color: yellow; }
+
+.amarelo-claro {
+  background-color: lightyellow; }
+
+.amarelo-escuro {
+  background-color: darkkhaki; }
+
+.rosa {
+  background-color: pink; }
+
+.rosa-claro {
+  background-color: lightpink; }
+
+.rosa-escuro {
+  background-color: #b99; }
+
+.laranja {
+  background-color: #f95; }
+
+.laranja-claro {
+  background-color: orange; }
+
+.laranja-escuro {
+  background-color: #e84; }
+
+.roxo {
+  background-color: purple; }
+
+.roxo-claro {
+  background-color: #c24cc2; }
+
+.roxo-escuro {
+  background-color: #4d064d; }
+
+.branco {
+  background-color: white; }
+
+.cinza-escuro {
+  background-color: #bbb; }
+
+.cinza-claro {
+  background-color: #ddd; }
+
+/*
+
+    Pronto já finalizei o meu trabalho, 
+    esse arquivo me deu muito trabalho 
+    mas será só esse os outros são menores.
+
+*/
 .fonte {
   font-size: 30px; }
 
