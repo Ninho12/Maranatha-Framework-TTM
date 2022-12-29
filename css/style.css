@@ -118,6 +118,19 @@
     mas será só esse os outros são menores.
 
 */
+/*
+
+    Neste arquivo eu vou desenvolver os gradientes
+    gradientes são muitos importantes para
+    criar fundos mais bonitos.
+
+    Os gradientes que eu vou criar serão das cores em portugues
+    e as cores em portugues também utiliza as cores da liturgia.
+
+*/
+.preto-linear {
+  background-image: linear-gradient(to bottom, black, #555); }
+
 .fonte {
   font-size: 30px; }
 
